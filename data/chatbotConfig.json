@@ -1,0 +1,7 @@
+{
+  "apiKey": "",
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "systemPrompt": "You are ZHUSE AI Assistant. Be helpful, concise, and respectful in all interactions.",
+  "endpoint": "https://api.openai.com/v1/chat/completions"
+}
