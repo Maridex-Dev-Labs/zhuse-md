@@ -174,8 +174,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+<a href="" target="_blank">
+  <img src="" alt="Buy Me a Coffee">
 </a>
 
 </div>
@@ -237,7 +237,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Professor. All rights reserved.
+Copyright (c) 2024 Maridex Dev Lbs. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
