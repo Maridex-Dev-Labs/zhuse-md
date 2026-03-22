@@ -1,29 +1,29 @@
-# 🤖 ZHUSE MD
+# 🤖 Knight Bot
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=ZHUSE MD;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/ZHUSE-MD/blob/main/assets/bot_image.jpg" alt="ZHUSE MD" height="300"> 
+    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/ZHUSE-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/ZHUSE-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/ZHUSE-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
 ---
 <div>
-  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=ZHUSE MD" target="_blank">
+  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Knightbot" target="_blank">
     <img src="assets/thor.png" alt="ThorData Proxies" width="100%" />
   </a>
 </div>
@@ -40,7 +40,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 <br>
 
 <div align="left">
-  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=ZHUSE MD" target="_blank">
+  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Knightbot" target="_blank">
     <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
   </a>
 </div>
@@ -50,10 +50,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the ZHUSE MD repository to your GitHub account:
+Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/ZHUSE-MD/fork">
+  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -65,7 +65,7 @@ Click the button below to fork the ZHUSE MD repository to your GitHub account:
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://zhuse-md-paircode.onrender.com" target="_blank">
+  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
@@ -109,7 +109,7 @@ For further customization and setup guidance, click the button below:
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://chat.whatsapp.com/DH2CDvEq03S5KIhhIlZYO9?mode=gi_t">
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
@@ -130,7 +130,7 @@ For further customization and setup guidance, click the button below:
 
 ## 📖 About
 
-The ZHUSE MD WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -148,8 +148,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/ZHUSE-MD.git
-    cd ZHUSE-MD
+    git clone https://github.com/mruniquehacker/Knightbot-MD.git
+    cd Knightbot-MD
     ```
 
 2. **Install the dependencies:**
@@ -174,8 +174,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 <div align="center">
 
-<a href="" target="_blank">
-  <img src="" alt="Buy Me a Coffee">
+<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
 </a>
 
 </div>
@@ -192,19 +192,19 @@ If you find this project helpful and want to support the developer, consider buy
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/ZHUSE-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/ZHUSE-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/ZHUSE MD)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
 
 
 ## Credits
@@ -237,10 +237,8 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Maridex Dev Lbs. All rights reserved.
+Copyright (c) 2024 Professor. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
-# zhuse-md
-# zhuse-md
